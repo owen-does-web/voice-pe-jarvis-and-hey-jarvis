@@ -1593,7 +1593,7 @@ micro_wake_word:
   models:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
-    - model: https://github.com/fwartner/home-assistant-wakewords-collection/raw/refs/heads/main/en/jarvis/jarvis_v2.tflite
+    - model: https://github.com/owen-does-web/home-assistant-wakewords-collection/releases/download/1/jarvis_v2.json
       id: jarvis
     - model: hey_mycroft
       id: hey_mycroft
